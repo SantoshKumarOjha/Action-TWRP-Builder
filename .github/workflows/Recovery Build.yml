@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/SantoshKumarOjha/android_device_motorola_fogos'
+        default: 'https://github.com/SantoshKumarOjha/android_device_motorola_fogos-twrp'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'fogos_g-user-11-U1UG34.23-82-2-2a8311-release-keys'
+        default: 'twrp-12.1'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
